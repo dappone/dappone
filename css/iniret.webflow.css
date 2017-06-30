@@ -93,7 +93,7 @@ p {
   background-image: -webkit-radial-gradient(circle farthest-corner at 50% 100%, rgba(0, 0, 0, .46) 37%, rgba(0, 0, 0, .82)), url('../images/bg.jpg');
   background-image: radial-gradient(circle farthest-corner at 50% 100%, rgba(0, 0, 0, .46) 37%, rgba(0, 0, 0, .82)), url('../images/bg.jpg');
   background-position: 0px 0px, 0px 0px;
-  background-size: auto, 964px;
+  background-size: cover;
   background-repeat: repeat, repeat;
 }
 
